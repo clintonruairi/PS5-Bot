@@ -1,0 +1,20 @@
+1. Proxys - rotate through a list of proxies, send a fucking shitload of requests
+2. This need not be done with current session
+3. Once one of these proxies finds the add to cart button, immediately refresh page in active login session
+4. procede as per usual
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
